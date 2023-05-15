@@ -1,0 +1,18 @@
+body{
+	background-Color:white;
+	margin:0;
+	padding:0;
+}
+main{
+	background-Color:black;
+	max-width:980px;
+	margin:auto;
+}
+h1{
+	text-align:center;
+	color:white;
+}
+li{
+	text-align:center;
+	color:white;
+}
