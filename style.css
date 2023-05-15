@@ -3,16 +3,66 @@ body{
 	margin:0;
 	padding:0;
 }
+#main-img {
+  width: 100%;
+  height: auto;
+}
 main{
+	width:980px;
 	background-Color:black;
-	max-width:980px;
-	margin:auto;
+	margin-top:1%;
+	margin-bottom:5%;
+	  position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
 }
 h1{
-	text-align:center;
 	color:white;
-}
-li{
 	text-align:center;
-	color:white;
+	font-size:70px;
 }
+	
+#twitter-link{
+	margin-top:2px;
+	margin-bottom:2px;
+	margin-left:200px;
+	margin-right:200px;
+
+}
+#twitter-img{
+	margin-top:10px;
+	width:480px;
+	margin-left:10px;
+}
+#twitter-atag{
+	font-size:70px;
+  	text-decoration: none;
+	color:white;
+	margin-left:35px;
+	margin-bottom:5px;
+}
+#sa-kurusyoukai{
+	margin-top:10px;
+	width:480px;
+	margin-left:15px;
+	margin-left:35px;
+	margin-bottom:5px;
+}
+
+#discord-link{
+	margin-top:10px;
+	margin-bottom:2px;
+	margin-left:250px;
+	margin-right:250px;
+}
+
+#web-page{
+	font-size:62px;
+  	text-decoration: none;
+	color:white;
+	margin-left:200px;
+	margin-right:200px;
+}
+
+
